@@ -54,3 +54,4 @@ jobs:
             --region ${GCP_LOCATION} \
             --platform managed \
             --allow-unauthenticated
+            
