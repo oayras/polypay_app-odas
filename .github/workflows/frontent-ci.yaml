@@ -5,6 +5,7 @@ on:
     branches:
       - 'feature/main-odas'
     paths:
+      - '.github/workflows/frontent-ci.yaml'
       - 'docker/frontend.Dockerfile'
       - 'frontend/**'
 
